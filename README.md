@@ -1,5 +1,5 @@
 # ETL_Project
-Taking Video Game Data Set from Kaggle and Combining it with Developer Data set
+Taking Video Game Data Set from Kaggle and Combining it with Publisher Data set
 
 Extract:
   We decided to use a csv dataset found on kaggle containing information on videogame sales and scraped videogame publisher information from wikipedia. At first we wanted to use developer information but we realized that developers often had many company names and that would be difficult to handle so we switched over to publishers.
